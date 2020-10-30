@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./literate-octo-sniffle/static/css/main.6dea0f05.chunk.css",
-    "main.js": "./literate-octo-sniffle/static/js/main.662c826c.chunk.js",
-    "main.js.map": "./literate-octo-sniffle/static/js/main.662c826c.chunk.js.map",
+    "main.js": "./literate-octo-sniffle/static/js/main.cf7619f2.chunk.js",
+    "main.js.map": "./literate-octo-sniffle/static/js/main.cf7619f2.chunk.js.map",
     "runtime-main.js": "./literate-octo-sniffle/static/js/runtime-main.57a5a2c6.js",
     "runtime-main.js.map": "./literate-octo-sniffle/static/js/runtime-main.57a5a2c6.js.map",
     "static/js/2.f6ab387c.chunk.js": "./literate-octo-sniffle/static/js/2.f6ab387c.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.57a5a2c6.js",
     "static/js/2.f6ab387c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.662c826c.chunk.js"
+    "static/js/main.cf7619f2.chunk.js"
   ]
 }
